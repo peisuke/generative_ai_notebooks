@@ -1,5 +1,9 @@
 # generative_ai_notebooks
 
+様々な生成AIをColabで試してみたサンプルとなります。一部、T5のハイメモリや、A100が必要になります。
+
+Here are samples of trying out various generative AIs on Colab. Some require high memory, like T5, or A100.
+
 | ジャンル | カテゴリ | モデル/手法 |
 | --- | --- | --- |
 | 言語 | 生成 | Llama2 |
