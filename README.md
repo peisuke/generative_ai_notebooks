@@ -1,6 +1,6 @@
 # generative_ai_notebooks
 
-様々な生成AIをColabで試してみたサンプルとなります。一部、T5のハイメモリや、A100が必要になります。
+[ABEJAアドベントカレンダー2023 21日目の記事](https://tech-blog.abeja.asia/entry/advent-2023-day21)で紹介したコードです。様々な生成AIをColabで試してみたサンプルとなります。一部、T5のハイメモリや、A100が必要になります。
 
 Here are samples of trying out various generative AIs on Colab. Some require high memory, like T5, or A100.
 
