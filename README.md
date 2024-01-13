@@ -9,6 +9,7 @@ Here are samples of trying out various generative AIs on Colab. Some require hig
 | 言語 | 生成 | Llama2 |
 |  |  | Vicuna 7B |
 |  |  | Mistral 7B |
+|  |  | Mixtral 8x7B |
 |  | 日本語LLM | ABEJA LLM 2.7B |
 |  |  | LLM-jp-13B |
 |  |  | CALM2 7B |
@@ -17,6 +18,7 @@ Here are samples of trying out various generative AIs on Colab. Some require hig
 |  |  | Swallow 13B Instruct |
 |  | 高速化 | llma.cpp |
 |  | | AutoGPTQ |
+|  | LongContext | SelfExtend |
 |  | Finetuning | QLoRA |
 |  | | SFT |
 |  | | PPO |
@@ -36,6 +38,8 @@ Here are samples of trying out various generative AIs on Colab. Some require hig
 |  | 動画 | Stable Video Diffusion |
 |  |  | AnimateDiff |
 |  |  | MagicAnimate |
+|  |  | CartoonSegmentation (3D Ken Berns) |
+|  |  | DreamTalk |
 | 音声 | 変換 | RVC |
 |  | TTS | VALL-E-X |
 |  | 翻訳 | SeamlessM4T |
