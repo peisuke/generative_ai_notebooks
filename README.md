@@ -42,6 +42,7 @@ Here are samples of trying out various generative AIs on Colab. Some require hig
 |  |  | DreamTalk |
 | 音声 | 変換 | RVC |
 |  | TTS | VALL-E-X |
+|  |  | Style_Bert_VITS2 |
 |  | 翻訳 | SeamlessM4T |
 |  | 音楽 | AudioCraft |
 |  | | AudioSep |
